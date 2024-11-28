@@ -1,0 +1,30 @@
+# IDE 설정 파일
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# 빌드 아티팩트
+build/
+out/
+*.jar
+
+# 로그 파일
+*.log
+
+# 환경 파일
+.env
+
+# Gradle Wrapper
+.gradle/
+!gradlew
+!gradlew.bat
+
+# OS 관련 파일
+.DS_Store
+Thumbs.db
+.AppleDouble
+
+# 추가적인 무시 파일
+*.swp
+*.tmp
