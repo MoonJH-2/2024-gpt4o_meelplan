@@ -53,7 +53,7 @@
 
 ### **5. 시스템 설계**
 
-![스크린샷 2024-11-28 21.55.51.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62fb3493-e2b2-4aa2-8bdb-1d84e0715988/1f241c7d-901e-4f69-a4cd-09d812bd5466/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-28_21.55.51.png)
+<img width="1215" alt="시스템설계01" src="https://github.com/user-attachments/assets/c88e4c31-492f-4876-8fae-625a97ced2f9">
 
 ### (1) **아키텍처 다이어그램**
 
@@ -63,7 +63,7 @@
 
 ### (3) **API 설계**
 
-![스크린샷 2024-11-28 21.55.59.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62fb3493-e2b2-4aa2-8bdb-1d84e0715988/976bd472-19e5-4e9e-95a7-06a57be23ab0/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-28_21.55.59.png)
+<img width="1215" alt="API설계" src="https://github.com/user-attachments/assets/a0f9ec5c-d191-4f1e-959d-774ccc1e5e12">
 
 ---
 
@@ -103,9 +103,9 @@
 1. [[ 모델 테스트 : repo/openai ]](https://github.com/MungJeoNyeon/openai/blob/main/README.md)
 2. 서버 테스트
 
-![스크린샷 2024-11-26 15.34.42.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62fb3493-e2b2-4aa2-8bdb-1d84e0715988/eebb8043-e88b-4bda-a24f-36af38449dc3/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-26_15.34.42.png)
+![서버테스트1](https://github.com/user-attachments/assets/1ab569a4-edf6-4408-90b3-47afd503a1af)
 
-![스크린샷 2024-11-28 22.48.00.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62fb3493-e2b2-4aa2-8bdb-1d84e0715988/e4d60de7-5820-4acb-af98-e8c3f12f1e17/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-28_22.48.00.png)
+![서버테스트2](https://github.com/user-attachments/assets/093909ba-e6c2-4c47-bafb-88cd93c65a7e)
 
 ---
 
