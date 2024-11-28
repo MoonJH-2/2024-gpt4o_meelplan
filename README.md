@@ -1,6 +1,6 @@
 ### **1. 프로젝트 개요**
 
-### (1) **프로젝트 MeelPlan with gpt4o**
+### (1) **프로젝트 gpt4o_MeelPlan**
 
 - 명확하고 간결하게 프로젝트의 주제를 나타내는 제목을 작성합니다.
 
@@ -59,7 +59,7 @@
 
 ### (1) **아키텍처 다이어그램**
 
-유스케이스, 시퀀스 다이어그램
+[[ 유스케이스 다이어그램, 시퀀스 다이어그램 : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
 
 ### (2) **ERD (Entity Relationship Diagram)**
 
@@ -94,15 +94,20 @@
 
 ### (1) 프로젝트 아이템 제안
 
-프로젝트 아이템 pdf
+[[ 프로젝트 아이템 PDF : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
 
 ### (2) 개발 계획서
 
-개발 계획서 docx
+[[ 개발 계획서 PDF : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
 
 ### (3) **테스트 및 수정**
 
-- 테스트 계획 및 결과를 작성합니다.
+1. [[ 모델 테스트 : repo/openai ]](https://github.com/MungJeoNyeon/openai/blob/main/README.md)
+2. 서버 테스트
+
+![스크린샷 2024-11-26 15.34.42.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62fb3493-e2b2-4aa2-8bdb-1d84e0715988/eebb8043-e88b-4bda-a24f-36af38449dc3/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-26_15.34.42.png)
+
+![스크린샷 2024-11-28 22.48.00.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/62fb3493-e2b2-4aa2-8bdb-1d84e0715988/e4d60de7-5820-4acb-af98-e8c3f12f1e17/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2024-11-28_22.48.00.png)
 
 ---
 
@@ -110,22 +115,29 @@
 
 ### (1) **성과**
 
+[[ 발표 PDF : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
+
+[[ 보고서 docx : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
+
+[[ team5-0.0.1-SNAPSHOT.jar.zip : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
+
 ```java
-team5-0.0.1-SNAPSHOT.jar
+성과 :
+성적 B+
+개발 계획서의 90% 달성
+
+한계 및 개선점 :
+자신을 돌아봤을 때 삶의 지혜가 부족함.
+-> '책을 읽자' notion space를 통해 지식을 쌓자.
 ```
-
-- 구현된 기능과 프로젝트 결과를 서술합니다.
-    - 예: "사용자 맞춤형 식단 추천 정확도 90% 달성."
-
-### (2) **한계 및 개선점**
-
-- 프로젝트에서 해결하지 못한 문제나 향후 개선 방향을 정리합니다.
 
 ---
 
 ### **8. 참고 자료**
 
-- [구글 드라이브](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
+- [오픈ai cookbook](https://cookbook.openai.com/)
+- [오픈ai docs](https://platform.openai.com/docs/overview)
+- [네이버 클라우드 플랫폼](https://www.ncloud.com/)
 
 ---
 
