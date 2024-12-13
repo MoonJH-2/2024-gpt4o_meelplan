@@ -6,16 +6,6 @@
 
 - 개인 맞춤형 건강 식단 추천 및 관리 서비스
 
-### (3) **팀 구성**
-
-| 이름 | 담당 업무 |  | 연락처 |
-| --- | --- | --- | --- |
-| 문정현[팀장] | 프론트엔드, 백엔드 | 프로젝트 기획 및 전반적인 관리 |  |
-| 한동민[팀원] | 프론트엔드 | UI/UX 설계 및 구현 |  |
-| 조연희[팀원] | 백엔드 | DB 설계 |  |
-
----
-
 ### **2. 개발 동기와 목표**
 
 ### (1) **개발 동기**
@@ -113,21 +103,13 @@
 
 ### (1) **성과**
 
+[[ 영상 ]](https://github.com/user-attachments/assets/5a408b76-9fa1-42e9-b01f-42f10b6ebcf3)
+
 [[ 발표 PDF : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
 
 [[ 보고서 docx : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
 
 [[ team5-0.0.1-SNAPSHOT.jar.zip : 구글 드라이브 ]](https://drive.google.com/drive/folders/1grnJnsOIPZPQTHHkRxLKA8CMeJpULECV?usp=drive_link)
-
-```java
-성과 :
-성적 B+
-개발 계획서의 90% 달성
-
-한계 및 개선점 :
-자신을 돌아봤을 때 삶의 지혜가 부족함.
--> '책을 읽자' notion space를 통해 지식을 쌓자.
-```
 
 ---
 
